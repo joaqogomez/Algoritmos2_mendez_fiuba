@@ -1,0 +1,30 @@
+Jon Snow;Stark;Le dicen que no sabe nada;P
+Daenerys Targaryen;Targaryen;Se convierte en la madre de dragones;P
+Daenerys Targaryen;Targaryen;Viaja a Poniente;F
+Jon Snow;Stark;¡Era por abajo Pacacio!;F
+Tyrion Lannister;Lannister;Mata a su propio padre;P
+Daenerys Targaryen;Targaryen;Consigue diez mil inmaculados;P
+Jon Snow;Stark;Se une a la Guardia de la Noche;P
+Tommen Baratheon;Baratheon;Se convierte en rey;P
+Gusano Gris;Inmaculado;Decide volver y matar a Jon Snow;F
+Ygritte;Pueblo Libre;Es atrapada por la guardia de la noche;P
+Jon Snow;Stark;Vuelve al sur del muro y recupera el trono que le robaron;F
+Arthur Dayne;Guardia real;Muere defendiendo la Torre de la Alegria, asesinado por Howland Reed y Ned Stark;P
+Jaime Lannister;Guardia real;Asesina a Aerys II;P
+Lyanna Stark;Stark;Prometemelo Ned;P
+Ned Stark;Stark;Mata a un desertor;P
+Jorah Mormont;Mormont;Se declara de una vez por todas a Daenerys;F
+Robert Baratheon;Baratheon;Gana la batalla del Tridente;P
+Khal Drogo;Dothraki;Le regala una corona a Viserys :D;P
+Barristan Selmy;Guardia real;Es expulsado de los capa dorada;P
+Ned Stark;Stark;Volvio en el tiempo y no confio en Little Finger;F
+Aerys II;Targaryen;Ordena quemar todo Desembarco del rey;P
+Jeor Mormont;Guardia de la noche;Destierra a su hijo por trafico de esclavos;P
+Robert Arryn;Arryn;No pudo seguir viviendo sin ser amamantado y se tiro desde el Nido de Aguilas;F
+Sam Tarly;Guardia de la noche;Derrota a un caminante blanco;P
+Ghost;Lobo huargo;Es abandonado nuevamente por jon snow </3;F
+Joffrey Baratheon;Baratheon;Le dan otro cachetazo;F
+Missandei de Nath;Nath;Le roban el pelo para venderlo;F
+Brienne Tarth;Guardia arcoiris;Casi mata a the hound;P
+Petyr Baelish;Baelish;Fingio su muerte y ahora se dedica al trafico de esclavos en westeros;F
+Cersei Lannister;Lannister;QUIERO MIS ELEFANTES;P
