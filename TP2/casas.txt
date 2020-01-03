@@ -1,0 +1,198 @@
+C;Stark;5;8
+I;Eddard Stark;35
+I;Catelyn Tully;34
+I;Robb Stark;14
+I;Sansa Stark;11
+I;Arya Stark;9
+I;Brandon Stark;7
+I;Rickon Stark;3
+I;Jon Snow;14
+I;Theon Greyjoy;16
+I;Benjen Stark;40
+I;Jory Cassel;30
+I;Hallis Mollen;30
+I;Desmod Jacks;28
+I;Porther Quent;24
+I;Alyn;24
+I;Tomard;30
+I;Varly;28
+I;Heward;39
+I;Cayn;40
+I;Wyl;40
+I;Maestre Luwin;55
+I;Vayon Poole;30
+I;Jeyne Poole;11
+I;Ser Rodrik Cassel;45
+I;Beth Cassel;16
+I;Septa Mordane;50
+I;Septon Chayle;55
+I;Hullen;40
+I;Joseth;23
+I;Farlen;48
+I;Vieja Tata;55
+I;Hodor;35
+I;Gage;40
+I;Mikken;40
+I;Lyanna Mepton;4
+I;Hannah Lekt;5
+I;Bethany;18
+C;Baratheon;5;9
+I;Robert Baratheon;35
+I;Joffrey Baratheon;12
+I;Myrcella Baratheon;8
+I;Tommen Baratheon;7
+I;Stannis Baratheon;40
+I;Lady Selyse;35
+I;Shireen Baratheon;9
+I;Renly Baratheon;25
+I;Maestre Pycelle;55
+I;Lord Petyr Baelish;35
+I;Ser Barristan Selmy;44
+I;Lord Varys;40
+I;Ser Ilyn Payne;44
+I;Sandor Clegane;27
+I;Janos Slynt;33
+I;Jalabhar Xho;20
+I;Chico Luna;18
+I;Ser Aron Santagar;40
+I;Ser Boros Blount;44
+I;Ser Meryn Trant;30
+I;Ser Arys Oakheart;25
+I;Ser Preston Greenfield;30
+I;Ser Mnadon Moore;34
+I;Howland Mint;15
+I;Joseph Landgoat;12
+I;Jocelyn Mint;9
+I;Edna Moore;30
+I;Mandy Groot;10
+I;Jerarld Red;30
+C;Lannister;5;7
+I;Tywyn Lannister;45
+I;Ser Jaime Lannister;30
+I;Lady Cersei Lannister;30
+I;Lord Tyrion Lannister;28
+I;Ser Kevan Lannister;50
+I;Dorna Swyft;40
+I;Lacel Lannister;24
+I;Willem Lannister;20
+I;Martyn Lannister;20
+I;Janel Lannister;16
+I;Genna Lannister;44
+I;Ser Stanfford Lannister;40
+I;Myrielle Lannister;18
+I;Cerenna Lannister;16
+I;Ser Daven Lannister;19
+I;Maestre Creylen;50
+I;Lord Leo Lefford;30
+I;Ser Addam Marbrand;34
+I;Ser Gregor Clegane;30
+I;Ser Forley Prester;27
+I;Ser Amory Lorch;25
+I;Vargo Hoat;30
+C;Arryn;6;8
+I;Lady Lysa Tully;36
+I;Robert Arryn;6
+I;Maestre Colemon;42
+I;Ser Vardis Egen;30
+I;Ser Brynden Tully;44
+I;Lord Nestor Royce;40
+I;Ser Albar Royce;18
+I;Mya Stone;16
+I;Lord Eon Hunter;38
+I;Ser Lyn Corbray;35
+I;Mychel Redfort;15
+I;Lady Anya Waynwood;50
+I;Ser Morton Waynwood;34
+I;Ser Donnel Waynwood;30
+I;Carcelero Mord;25
+I;Barsa Mord;20
+I;Wisemeri Stone;24
+I;Ricfrea Illyn;45
+I;Red Illyn;30
+I;Jo Pec;14
+I;Rolpher Jord;40
+I;Redwerd Jord;18
+I;Geora Jord;16
+I;Egelceol Leowen;43
+I;Toliam Leowen;13
+I;Hereroy Troy;30
+I;Laurah Darwon;35
+I;Chardhildi Dalton;45
+I;Toni Dalton;55
+I;Beorncuth Oppend;40
+I;Tim Peasca;20
+I;Aldda Riddo;21
+I;Claric Gommen;50
+I;Robbert Recraft;29
+I;Gifuord Recraft;5
+C;Tyrell;5;10
+I;Mace Tyrell;36
+I;Lady Alerie;34
+I;Willas Tyrell;18
+I;Ser Loras Tyrell;16
+I;Ser Garlan;15
+I;Margaery Tyrell;14
+I;Lady Olenna Tyrell;50
+I;Mina Tyrell;33
+I;Janna Tyrell;31
+I;Lord Garth;35
+I;Garse Flower;14
+I;Garret Flower;12
+I;Ser Moryn;27
+I;Maestre Gormon;39
+I;Igon Vyrwel;40
+I;Ser Vortimer Crane;40
+I;Paxter Redwyne;34
+I;Lady Mine;30
+I;Ser Horas Redwyne;24
+I;Ser Hobber Redwyne;24
+I;Desmera Redwyne;15
+I;Randyll Tarly;40
+I;Samwell Tarly;14
+I;Dickon Tarly;13
+I;Arwin Oakgeart;40
+I;Natgus Riwan;48
+I;Leyton Hightower;55
+I;Ser Jon Fossoway;35
+I;Ser Robber Fossoway;40
+I;Lord Emphis Rohan;35
+I;Lady Emmana Thely;30
+I;Joseph Rohan;14
+I;Brandon Rohan;8
+C;Martell;8;7
+I;Principe Doran Nymero Martell;30
+I;Mellario;24
+I;Princesa Arianne Martell;13
+I;Principe Quentyn Martell;11
+I;Principe Trystane Martell;8
+I;Obertn Martsell;28
+I;Areo Hotah;38
+I;Lah Murld;35
+I;Faqmur Hotah;20
+I;Thara Hotah;18
+I;Maestre Caleotte;50
+I;Edric Dayne;40
+I;Brira Dayne;35
+I;Ria Dayne;14
+I;Mildel Sand;12
+I;Matra Sand;20
+I;Lyn Jabas;20  
+I;Bra Jabas;14
+I;Mina Jabas;3
+I;Bara'd Sand;33
+I;Wawan Sand;14
+I;Yahy Murld;30
+I;Bara Sand;30
+I;Zae Ruhirwa;34
+I;Bramanna;30
+I;Izzhas Ruhirwa;10
+I;Sahamsu Ruhirwa;12
+I;Tulrader Sand;10
+I;Zae Harleham;28
+I;Balaimu Hower;50
+I;Ma'lut Jordayne;30
+I;Kan'fa Jordayne;29
+I;Haima Wyl;455I;
+I;Ram-allah Wyl;50
+I;Tha-li Fowler;40
+I;Nayuadi San6;15
